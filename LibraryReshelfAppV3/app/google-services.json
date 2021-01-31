@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "322340887502",
+    "firebase_url": "https://library-reshelf-app.firebaseio.com",
+    "project_id": "library-reshelf-app",
+    "storage_bucket": "library-reshelf-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322340887502:android:1f057e51c87788b9",
+        "android_client_info": {
+          "package_name": "com.andrewwang.libraryreshelfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322340887502-cvg1ptrklhm6l5q92dvboiskgs39c945.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewwang.libraryreshelfapp",
+            "certificate_hash": "9c3ecd6bd46ef54003d0d2847df9aa85ff1ceddf"
+          }
+        },
+        {
+          "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dgbNTC0h8_RNIS4dj34Pe9A3gTGSp_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322340887502:android:87262f5c4832efefb0299f",
+        "android_client_info": {
+          "package_name": "com.andrewwang.libraryreshelfappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322340887502-cp7cs95g9adprao4dtnlglofi2q1l7jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewwang.libraryreshelfappv2",
+            "certificate_hash": "9c3ecd6bd46ef54003d0d2847df9aa85ff1ceddf"
+          }
+        },
+        {
+          "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dgbNTC0h8_RNIS4dj34Pe9A3gTGSp_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322340887502:android:104bf5668a64c6cdb0299f",
+        "android_client_info": {
+          "package_name": "com.andrewwang.libraryreshelfappv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322340887502-kvtntb2g3upo8rqnme5ejnfb4f466iu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewwang.libraryreshelfappv3",
+            "certificate_hash": "9c3ecd6bd46ef54003d0d2847df9aa85ff1ceddf"
+          }
+        },
+        {
+          "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dgbNTC0h8_RNIS4dj34Pe9A3gTGSp_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322340887502-hhlhs0crikvq5usmrkna1cnrpi4v18h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

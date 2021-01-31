@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39170599886",
+    "firebase_url": "https://shelvingapp.firebaseio.com",
+    "project_id": "shelvingapp",
+    "storage_bucket": "shelvingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39170599886:android:a8229ee4d000558c",
+        "android_client_info": {
+          "package_name": "com.andrewwang.linedetectionv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39170599886-vmicib7usa4r8e6tdpbg1t7eant4fdd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewwang.linedetectionv3",
+            "certificate_hash": "9c3ecd6bd46ef54003d0d2847df9aa85ff1ceddf"
+          }
+        },
+        {
+          "client_id": "39170599886-kvvljc72h3j3tsmc7opi15e3l5q8188g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NzfjXkCj4NrQP64OyRrY-nXYWEUEdFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39170599886-kvvljc72h3j3tsmc7opi15e3l5q8188g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

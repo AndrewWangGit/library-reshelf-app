@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library Reshelf App</string>
+    <string name="btnText">Open Camera</string>
+    <string name="imageViewDescription">Detected Information</string>
+</resources>
